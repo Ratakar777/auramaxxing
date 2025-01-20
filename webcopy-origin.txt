@@ -1,0 +1,1016 @@
+Uri: https://bafybeienymy6dyvhihbzcifgolupaq7mxbeiiy3vi4psfbu3vagwndhaju.ipfs.w3s.link/aura-classified.JPG
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\aura-classified.JPG
+Content Type: image/jpeg
+
+Uri: https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&display=swap
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAkJxhTg.ttf
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAkJxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAopxhTg.ttf
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAopxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwARZthTg.ttf
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwARZthTg.ttf
+Content Type: font/ttf
+
+Uri: https://gray-uncertain-starfish-836.mypinata.cloud/ipfs/QmR58hfNRbWZSJAQ7UPXL481JzTCrxifB2Var6a11UG5rq
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\ipfs\QmR58hfNRbWZSJAQ7UPXL481JzTCrxifB2Var6a11UG5rq
+Content Type: audio/mpeg
+
+Uri: https://www.auramaxxing.xyz/
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\index.htm
+Content Type: text/html
+
+Uri: https://www.auramaxxing.xyz/alwayshas.png
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\alwayshas.png
+Content Type: image/png
+
+Uri: https://www.auramaxxing.xyz/auracult1.JPG
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\auracult1.JPG
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/manifest.webmanifest
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\manifest.webmanifest
+Content Type: application/manifest+json
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Faurahq.76dee637.jpg&w=128&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\aurahq-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Faurahq.76dee637.jpg&w=256&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\aurahq.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fb1.a4b180e5.png&w=384&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\b1-1.png
+Content Type: image/png
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fb1.a4b180e5.png&w=640&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\b1.png
+Content Type: image/png
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fb10.78566f54.png&w=256&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\b10-1.png
+Content Type: image/png
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fb10.78566f54.png&w=384&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\b10.png
+Content Type: image/png
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fb2.dc3e553b.png&w=384&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\b2-1.png
+Content Type: image/png
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fb2.dc3e553b.png&w=640&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\b2.png
+Content Type: image/png
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fb20.d2a31750.png&w=256&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\b20-1.png
+Content Type: image/png
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fb20.d2a31750.png&w=640&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\b20.png
+Content Type: image/png
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fb21.8ab3bc95.png&w=256&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\b21-1.png
+Content Type: image/png
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fb21.8ab3bc95.png&w=640&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\b21.png
+Content Type: image/png
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fb22.af9c5ee2.png&w=256&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\b22-1.png
+Content Type: image/png
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fb22.af9c5ee2.png&w=640&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\b22.png
+Content Type: image/png
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fb23.03a4a042.png&w=256&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\b23-1.png
+Content Type: image/png
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fb23.03a4a042.png&w=384&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\b23.png
+Content Type: image/png
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fb24.faab4130.png&w=256&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\b24-1.png
+Content Type: image/png
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fb24.faab4130.png&w=384&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\b24.png
+Content Type: image/png
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fb25.001fefab.png&w=256&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\b25-1.png
+Content Type: image/png
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fb25.001fefab.png&w=640&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\b25.png
+Content Type: image/png
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fb27.3f985ad6.png&w=256&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\b27-1.png
+Content Type: image/png
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fb27.3f985ad6.png&w=384&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\b27.png
+Content Type: image/png
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fb28.5f0519ae.png&w=256&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\b28-1.png
+Content Type: image/png
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fb28.5f0519ae.png&w=640&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\b28.png
+Content Type: image/png
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fb29.5c096ac3.png&w=256&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\b29-1.png
+Content Type: image/png
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fb29.5c096ac3.png&w=384&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\b29.png
+Content Type: image/png
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fb3.48698fc3.png&w=256&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\b3-1.png
+Content Type: image/png
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fb3.48698fc3.png&w=384&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\b3.png
+Content Type: image/png
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fb30.06b4acfb.png&w=256&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\b30-1.png
+Content Type: image/png
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fb30.06b4acfb.png&w=640&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\b30.png
+Content Type: image/png
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fb31.517dbc10.png&w=256&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\b31-1.png
+Content Type: image/png
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fb31.517dbc10.png&w=384&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\b31.png
+Content Type: image/png
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fb32.e75eb4eb.png&w=256&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\b32-1.png
+Content Type: image/png
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fb32.e75eb4eb.png&w=640&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\b32.png
+Content Type: image/png
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fb33.32648bcf.png&w=256&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\b33-1.png
+Content Type: image/png
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fb33.32648bcf.png&w=384&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\b33.png
+Content Type: image/png
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fb35.1aa32aa8.png&w=256&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\b35-1.png
+Content Type: image/png
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fb35.1aa32aa8.png&w=640&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\b35.png
+Content Type: image/png
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fb37.015e0451.png&w=256&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\b37-1.png
+Content Type: image/png
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fb37.015e0451.png&w=384&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\b37.png
+Content Type: image/png
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fb39.bb4cb09e.png&w=256&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\b39-1.png
+Content Type: image/png
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fb39.bb4cb09e.png&w=640&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\b39.png
+Content Type: image/png
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fb40.3be337f5.png&w=256&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\b40-1.png
+Content Type: image/png
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fb40.3be337f5.png&w=640&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\b40.png
+Content Type: image/png
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fb41.c42eec58.png&w=256&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\b41-1.png
+Content Type: image/png
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fb41.c42eec58.png&w=640&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\b41.png
+Content Type: image/png
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fb42.9d248533.png&w=256&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\b42-1.png
+Content Type: image/png
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fb42.9d248533.png&w=384&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\b42.png
+Content Type: image/png
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fb44.b7cac3d3.png&w=256&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\b44-1.png
+Content Type: image/png
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fb44.b7cac3d3.png&w=640&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\b44.png
+Content Type: image/png
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fb45.2ea84e0c.png&w=256&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\b45-1.png
+Content Type: image/png
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fb45.2ea84e0c.png&w=384&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\b45.png
+Content Type: image/png
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fb5.a0930ba5.png&w=256&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\b5-1.png
+Content Type: image/png
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fb5.a0930ba5.png&w=640&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\b5.png
+Content Type: image/png
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fb50.08edb576.png&w=256&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\b50-1.png
+Content Type: image/png
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fb50.08edb576.png&w=384&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\b50.png
+Content Type: image/png
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fb55.ddcad2de.png&w=256&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\b55-1.png
+Content Type: image/png
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fb55.ddcad2de.png&w=640&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\b55.png
+Content Type: image/png
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fb56.e94ae4e7.png&w=256&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\b56-1.png
+Content Type: image/png
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fb56.e94ae4e7.png&w=384&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\b56.png
+Content Type: image/png
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fb57.81902b77.png&w=256&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\b57-1.png
+Content Type: image/png
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fb57.81902b77.png&w=384&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\b57.png
+Content Type: image/png
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fb6.c95454fe.png&w=256&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\b6-1.png
+Content Type: image/png
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fb6.c95454fe.png&w=640&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\b6.png
+Content Type: image/png
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fb60.c8c3d123.png&w=256&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\b60-1.png
+Content Type: image/png
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fb60.c8c3d123.png&w=640&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\b60.png
+Content Type: image/png
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fb8.3651ddea.png&w=256&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\b8-1.png
+Content Type: image/png
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fb8.3651ddea.png&w=384&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\b8.png
+Content Type: image/png
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fb9.29c6195c.png&w=256&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\b9-1.png
+Content Type: image/png
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fb9.29c6195c.png&w=640&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\b9.png
+Content Type: image/png
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcult-1.44c3711d.png&w=256&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\cult-1-1.png
+Content Type: image/png
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcult-1.44c3711d.png&w=640&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\cult-1.png
+Content Type: image/png
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcult-2.718e0eba.png&w=256&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\cult-2-1.png
+Content Type: image/png
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcult-2.718e0eba.png&w=640&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\cult-2.png
+Content Type: image/png
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcult-3.ee6b9f2b.png&w=256&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\cult-3-1.png
+Content Type: image/png
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcult-3.ee6b9f2b.png&w=384&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\cult-3.png
+Content Type: image/png
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcult-4.c9331205.png&w=256&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\cult-4-1.png
+Content Type: image/png
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcult-4.c9331205.png&w=384&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\cult-4.png
+Content Type: image/png
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcult-5.4b497141.png&w=256&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\cult-5-1.png
+Content Type: image/png
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcult-5.4b497141.png&w=384&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\cult-5.png
+Content Type: image/png
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcult-6.8059943b.png&w=256&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\cult-6-1.png
+Content Type: image/png
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcult-6.8059943b.png&w=640&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\cult-6.png
+Content Type: image/png
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcult-7.910e79ca.png&w=256&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\cult-7-1.png
+Content Type: image/png
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcult-7.910e79ca.png&w=640&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\cult-7.png
+Content Type: image/png
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcult-8.5d19f76b.png&w=384&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\cult-8-1.png
+Content Type: image/png
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcult-8.5d19f76b.png&w=640&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\cult-8.png
+Content Type: image/png
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fog-cat.e152efab.png&w=256&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\og-cat-2.png
+Content Type: image/png
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fog-cat.e152efab.png&w=384&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\og-cat-1.png
+Content Type: image/png
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fog-cat.e152efab.png&w=640&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\og-cat.png
+Content Type: image/png
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fparallax1.1445b969.png&w=1080&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\parallax1-4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fparallax1.1445b969.png&w=1200&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\parallax1-5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fparallax1.1445b969.png&w=1920&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\parallax1-6.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fparallax1.1445b969.png&w=2048&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\parallax1-7.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fparallax1.1445b969.png&w=3840&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\parallax1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fparallax1.1445b969.png&w=640&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\parallax1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fparallax1.1445b969.png&w=750&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\parallax1-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fparallax1.1445b969.png&w=828&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\parallax1-3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fparallax2.bbf40cee.png&w=1080&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\parallax2-4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fparallax2.bbf40cee.png&w=1200&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\parallax2-5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fparallax2.bbf40cee.png&w=1920&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\parallax2-6.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fparallax2.bbf40cee.png&w=2048&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\parallax2-7.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fparallax2.bbf40cee.png&w=3840&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\parallax2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fparallax2.bbf40cee.png&w=640&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\parallax2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fparallax2.bbf40cee.png&w=750&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\parallax2-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fparallax2.bbf40cee.png&w=828&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\parallax2-3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fparallax3.488d2c42.png&w=1080&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\parallax3-4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fparallax3.488d2c42.png&w=1200&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\parallax3-5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fparallax3.488d2c42.png&w=1920&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\parallax3-6.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fparallax3.488d2c42.png&w=2048&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\parallax3-7.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fparallax3.488d2c42.png&w=3840&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\parallax3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fparallax3.488d2c42.png&w=640&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\parallax3-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fparallax3.488d2c42.png&w=750&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\parallax3-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fparallax3.488d2c42.png&w=828&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\parallax3-3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fparallax4.ec6ea45c.png&w=1080&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\parallax4-4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fparallax4.ec6ea45c.png&w=1200&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\parallax4-5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fparallax4.ec6ea45c.png&w=1920&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\parallax4-6.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fparallax4.ec6ea45c.png&w=2048&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\parallax4-7.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fparallax4.ec6ea45c.png&w=3840&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\parallax4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fparallax4.ec6ea45c.png&w=640&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\parallax4-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fparallax4.ec6ea45c.png&w=750&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\parallax4-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fparallax4.ec6ea45c.png&w=828&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\parallax4-3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fparallax5.10bdbeb7.png&w=1080&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\parallax5-4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fparallax5.10bdbeb7.png&w=1200&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\parallax5-5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fparallax5.10bdbeb7.png&w=1920&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\parallax5-6.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fparallax5.10bdbeb7.png&w=2048&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\parallax5-7.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fparallax5.10bdbeb7.png&w=3840&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\parallax5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fparallax5.10bdbeb7.png&w=640&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\parallax5-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fparallax5.10bdbeb7.png&w=750&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\parallax5-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fparallax5.10bdbeb7.png&w=828&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\parallax5-3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fparallax6.0adbb3ec.png&w=1080&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\parallax6-4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fparallax6.0adbb3ec.png&w=1200&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\parallax6-5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fparallax6.0adbb3ec.png&w=1920&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\parallax6-6.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fparallax6.0adbb3ec.png&w=2048&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\parallax6-7.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fparallax6.0adbb3ec.png&w=3840&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\parallax6.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fparallax6.0adbb3ec.png&w=640&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\parallax6-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fparallax6.0adbb3ec.png&w=750&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\parallax6-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fparallax6.0adbb3ec.png&w=828&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\parallax6-3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fparallax7.9a24293b.png&w=1080&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\parallax7-4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fparallax7.9a24293b.png&w=1200&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\parallax7-5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fparallax7.9a24293b.png&w=1920&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\parallax7-6.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fparallax7.9a24293b.png&w=2048&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\parallax7-7.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fparallax7.9a24293b.png&w=3840&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\parallax7.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fparallax7.9a24293b.png&w=640&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\parallax7-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fparallax7.9a24293b.png&w=750&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\parallax7-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fparallax7.9a24293b.png&w=828&q=75
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\parallax7-3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/static/chunks/23-26af6f2aaf75e03d.js
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\static\chunks\23-26af6f2aaf75e03d.js
+Content Type: application/javascript
+
+Uri: https://www.auramaxxing.xyz/_next/static/chunks/255-087c3ef5f1cb2a64.js
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\static\chunks\255-087c3ef5f1cb2a64.js
+Content Type: application/javascript
+
+Uri: https://www.auramaxxing.xyz/_next/static/chunks/388-d30308c0ceeb8da6.js
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\static\chunks\388-d30308c0ceeb8da6.js
+Content Type: application/javascript
+
+Uri: https://www.auramaxxing.xyz/_next/static/chunks/3a91511d-d0018df96cbe0b6e.js
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\static\chunks\3a91511d-d0018df96cbe0b6e.js
+Content Type: application/javascript
+
+Uri: https://www.auramaxxing.xyz/_next/static/chunks/432-b3894012da94a406.js
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\static\chunks\432-b3894012da94a406.js
+Content Type: application/javascript
+
+Uri: https://www.auramaxxing.xyz/_next/static/chunks/666-3aeb253226933462.js
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\static\chunks\666-3aeb253226933462.js
+Content Type: application/javascript
+
+Uri: https://www.auramaxxing.xyz/_next/static/chunks/698-95befc51e946804c.js
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\static\chunks\698-95befc51e946804c.js
+Content Type: application/javascript
+
+Uri: https://www.auramaxxing.xyz/_next/static/chunks/783-5fbe3e35c95ed782.js
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\static\chunks\783-5fbe3e35c95ed782.js
+Content Type: application/javascript
+
+Uri: https://www.auramaxxing.xyz/_next/static/chunks/app/layout-cc205bee2d8ce001.js
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\static\chunks\app\layout-cc205bee2d8ce001.js
+Content Type: application/javascript
+
+Uri: https://www.auramaxxing.xyz/_next/static/chunks/app/page-6d7de64a9df3718d.js
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\static\chunks\app\page-6d7de64a9df3718d.js
+Content Type: application/javascript
+
+Uri: https://www.auramaxxing.xyz/_next/static/chunks/b536a0f1-b576fb0ebca25e2f.js
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\static\chunks\b536a0f1-b576fb0ebca25e2f.js
+Content Type: application/javascript
+
+Uri: https://www.auramaxxing.xyz/_next/static/chunks/c15bf2b0-c5f2ab0c4ce668d5.js
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\static\chunks\c15bf2b0-c5f2ab0c4ce668d5.js
+Content Type: application/javascript
+
+Uri: https://www.auramaxxing.xyz/_next/static/chunks/fd9d1056-eb01b2bb73bb537e.js
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\static\chunks\fd9d1056-eb01b2bb73bb537e.js
+Content Type: application/javascript
+
+Uri: https://www.auramaxxing.xyz/_next/static/chunks/main-app-f73cdb3bce740b12.js
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\static\chunks\main-app-f73cdb3bce740b12.js
+Content Type: application/javascript
+
+Uri: https://www.auramaxxing.xyz/_next/static/chunks/polyfills-78c92fac7aa8fdd8.js
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\static\chunks\polyfills-78c92fac7aa8fdd8.js
+Content Type: application/javascript
+
+Uri: https://www.auramaxxing.xyz/_next/static/chunks/webpack-8d7937bcd5961266.js
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\static\chunks\webpack-8d7937bcd5961266.js
+Content Type: application/javascript
+
+Uri: https://www.auramaxxing.xyz/_next/static/css/0571feef2a2b2d1a.css
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\static\css\0571feef2a2b2d1a.css
+Content Type: text/css
+
+Uri: https://www.auramaxxing.xyz/_next/static/css/60d0baacac1aaaa0.css
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\static\css\60d0baacac1aaaa0.css
+Content Type: text/css
+
+Uri: https://www.auramaxxing.xyz/_next/static/css/9cf71e50313934df.css
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\static\css\9cf71e50313934df.css
+Content Type: text/css
+
+Uri: https://www.auramaxxing.xyz/_next/static/media/26a46d62cd723877-s.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\static\media\26a46d62cd723877-s.woff2
+Content Type: font/woff2
+
+Uri: https://www.auramaxxing.xyz/_next/static/media/55c55f0601d81cf3-s.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\static\media\55c55f0601d81cf3-s.woff2
+Content Type: font/woff2
+
+Uri: https://www.auramaxxing.xyz/_next/static/media/581909926a08bbc8-s.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\static\media\581909926a08bbc8-s.woff2
+Content Type: font/woff2
+
+Uri: https://www.auramaxxing.xyz/_next/static/media/6d93bde91c0c2823-s.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\static\media\6d93bde91c0c2823-s.woff2
+Content Type: font/woff2
+
+Uri: https://www.auramaxxing.xyz/_next/static/media/97e0cb1ae144a2a9-s.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\static\media\97e0cb1ae144a2a9-s.woff2
+Content Type: font/woff2
+
+Uri: https://www.auramaxxing.xyz/_next/static/media/a34f9d1faa5f3315-s.p.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\static\media\a34f9d1faa5f3315-s.p.woff2
+Content Type: font/woff2
+
+Uri: https://www.auramaxxing.xyz/_next/static/media/aura-cult-hero-2.57210a35.png
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\static\media\aura-cult-hero-2.57210a35.png
+Content Type: image/png
+
+Uri: https://www.auramaxxing.xyz/_next/static/media/df0a9ae256c0569c-s.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\static\media\df0a9ae256c0569c-s.woff2
+Content Type: font/woff2
+
+Uri: https://www.auramaxxing.xyz/_next/static/media/image1.a0e65581.jpg
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\static\media\image1.a0e65581.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/static/media/image10.31808ec8.jpg
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\static\media\image10.31808ec8.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/static/media/image11.3ec0c3b7.jpg
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\static\media\image11.3ec0c3b7.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/static/media/image12.b32454c2.jpg
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\static\media\image12.b32454c2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/static/media/image13.b85aaecc.jpg
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\static\media\image13.b85aaecc.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/static/media/image14.6b015d68.jpg
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\static\media\image14.6b015d68.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/static/media/image15.5af90f89.jpg
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\static\media\image15.5af90f89.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/static/media/image16.b6a57fbc.jpg
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\static\media\image16.b6a57fbc.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/static/media/image17.d47fb625.jpg
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\static\media\image17.d47fb625.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/static/media/image18.299ab721.jpg
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\static\media\image18.299ab721.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/static/media/image19.04317dec.jpg
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\static\media\image19.04317dec.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/static/media/image2.acb6cde5.jpg
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\static\media\image2.acb6cde5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/static/media/image20.c80cce97.jpg
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\static\media\image20.c80cce97.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/static/media/image21.58c584fa.jpg
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\static\media\image21.58c584fa.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/static/media/image22.da02dcc2.jpg
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\static\media\image22.da02dcc2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/static/media/image23.2817ee25.jpg
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\static\media\image23.2817ee25.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/static/media/image24.d8fef6c0.jpg
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\static\media\image24.d8fef6c0.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/static/media/image25.fa76c625.jpg
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\static\media\image25.fa76c625.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/static/media/image26.f5a3a830.jpg
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\static\media\image26.f5a3a830.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/static/media/image27.aaeaf40c.jpg
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\static\media\image27.aaeaf40c.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/static/media/image28.79491299.jpg
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\static\media\image28.79491299.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/static/media/image29.9c31212e.jpg
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\static\media\image29.9c31212e.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/static/media/image3.0d3e9526.jpg
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\static\media\image3.0d3e9526.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/static/media/image30.2b431297.jpg
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\static\media\image30.2b431297.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/static/media/image31.51c0539c.jpg
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\static\media\image31.51c0539c.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/static/media/image32.a1364860.jpg
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\static\media\image32.a1364860.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/static/media/image33.59dfcce8.jpg
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\static\media\image33.59dfcce8.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/static/media/image34.d5fecabd.jpg
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\static\media\image34.d5fecabd.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/static/media/image35.e6ed3742.jpg
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\static\media\image35.e6ed3742.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/static/media/image36.7817fa8c.jpg
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\static\media\image36.7817fa8c.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/static/media/image37.4ffe546d.jpg
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\static\media\image37.4ffe546d.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/static/media/image38.9a61c56b.jpg
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\static\media\image38.9a61c56b.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/static/media/image39.c38e4706.jpg
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\static\media\image39.c38e4706.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/static/media/image4.07c44d8b.jpg
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\static\media\image4.07c44d8b.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/static/media/image40.0583dae0.jpg
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\static\media\image40.0583dae0.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/static/media/image41.ecae2bf3.jpg
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\static\media\image41.ecae2bf3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/static/media/image42.20a0fe72.jpg
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\static\media\image42.20a0fe72.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/static/media/image43.085f54d9.jpg
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\static\media\image43.085f54d9.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/static/media/image44.0204e60d.jpg
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\static\media\image44.0204e60d.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/static/media/image45.0790ae0a.jpg
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\static\media\image45.0790ae0a.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/static/media/image46.bf7c5392.jpg
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\static\media\image46.bf7c5392.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/static/media/image47.ad0558a0.jpg
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\static\media\image47.ad0558a0.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/static/media/image48.ec81ccb0.jpg
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\static\media\image48.ec81ccb0.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/static/media/image49.76dee637.jpg
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\static\media\image49.76dee637.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/static/media/image5.53aa1c81.jpg
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\static\media\image5.53aa1c81.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/static/media/image50.ad188e2b.jpg
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\static\media\image50.ad188e2b.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/static/media/image51.a42895bc.jpg
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\static\media\image51.a42895bc.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/static/media/image52.428173b0.jpg
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\static\media\image52.428173b0.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/static/media/image53.e01353c2.jpg
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\static\media\image53.e01353c2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/static/media/image54.3d062be0.jpg
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\static\media\image54.3d062be0.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/static/media/image55.d7dd8025.jpg
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\static\media\image55.d7dd8025.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/static/media/image56.62a97b06.jpg
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\static\media\image56.62a97b06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/static/media/image57.95a53fb9.jpg
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\static\media\image57.95a53fb9.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/static/media/image58.5c87f0d8.jpg
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\static\media\image58.5c87f0d8.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/static/media/image6.6b9d6d46.jpg
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\static\media\image6.6b9d6d46.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/static/media/image7.6f2d5933.jpg
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\static\media\image7.6f2d5933.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/static/media/image8.f0b7c3b7.jpg
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\static\media\image8.f0b7c3b7.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/static/media/image9.458f592a.jpg
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\static\media\image9.458f592a.jpg
+Content Type: image/jpeg
+
+Uri: https://www.auramaxxing.xyz/_next/static/media/lalezar-arabic-400-normal.505d2d23.woff
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\static\media\lalezar-arabic-400-normal.505d2d23.woff
+Content Type: font/woff
+
+Uri: https://www.auramaxxing.xyz/_next/static/media/lalezar-arabic-400-normal.b75fbbfc.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\static\media\lalezar-arabic-400-normal.b75fbbfc.woff2
+Content Type: font/woff2
+
+Uri: https://www.auramaxxing.xyz/_next/static/media/lalezar-latin-400-normal.11d21635.woff
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\static\media\lalezar-latin-400-normal.11d21635.woff
+Content Type: font/woff
+
+Uri: https://www.auramaxxing.xyz/_next/static/media/lalezar-latin-400-normal.12ce2787.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\static\media\lalezar-latin-400-normal.12ce2787.woff2
+Content Type: font/woff2
+
+Uri: https://www.auramaxxing.xyz/_next/static/media/lalezar-latin-ext-400-normal.315642d6.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\static\media\lalezar-latin-ext-400-normal.315642d6.woff2
+Content Type: font/woff2
+
+Uri: https://www.auramaxxing.xyz/_next/static/media/lalezar-latin-ext-400-normal.483a4c1a.woff
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\static\media\lalezar-latin-ext-400-normal.483a4c1a.woff
+Content Type: font/woff
+
+Uri: https://www.auramaxxing.xyz/_next/static/media/lalezar-vietnamese-400-normal.28440935.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\static\media\lalezar-vietnamese-400-normal.28440935.woff2
+Content Type: font/woff2
+
+Uri: https://www.auramaxxing.xyz/_next/static/media/lalezar-vietnamese-400-normal.6efb81ff.woff
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\static\media\lalezar-vietnamese-400-normal.6efb81ff.woff
+Content Type: font/woff
+
+Uri: https://www.auramaxxing.xyz/_next/static/media/shrikhand-gujarati-400-normal.52256837.woff
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\static\media\shrikhand-gujarati-400-normal.52256837.woff
+Content Type: font/woff
+
+Uri: https://www.auramaxxing.xyz/_next/static/media/shrikhand-gujarati-400-normal.85167049.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\static\media\shrikhand-gujarati-400-normal.85167049.woff2
+Content Type: font/woff2
+
+Uri: https://www.auramaxxing.xyz/_next/static/media/shrikhand-latin-400-normal.0d6ff64e.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\static\media\shrikhand-latin-400-normal.0d6ff64e.woff2
+Content Type: font/woff2
+
+Uri: https://www.auramaxxing.xyz/_next/static/media/shrikhand-latin-400-normal.54c69dcd.woff
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\static\media\shrikhand-latin-400-normal.54c69dcd.woff
+Content Type: font/woff
+
+Uri: https://www.auramaxxing.xyz/_next/static/media/shrikhand-latin-ext-400-normal.d356f599.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\static\media\shrikhand-latin-ext-400-normal.d356f599.woff2
+Content Type: font/woff2
+
+Uri: https://www.auramaxxing.xyz/_next/static/media/shrikhand-latin-ext-400-normal.dd49e831.woff
+File Name: C:\work\Downloaded Web Sites\18.01\www.auramaxxing.xyz\_next\static\media\shrikhand-latin-ext-400-normal.dd49e831.woff
+Content Type: font/woff
+
